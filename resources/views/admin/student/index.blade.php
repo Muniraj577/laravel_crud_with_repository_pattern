@@ -1,6 +1,6 @@
 @extends('layouts.admin.app')
 @section('title', 'Student')
-@section('user', 'active')
+@section('student', 'active')
 @section('content')
     <section class="content-header">
         <div class="container-fluid">

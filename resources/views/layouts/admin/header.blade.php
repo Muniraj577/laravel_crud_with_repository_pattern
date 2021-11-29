@@ -19,7 +19,7 @@
                 aria-haspopup="true" aria-expanded="false" v-pre>
                 <img
                     class="img-circle elevation-2 img-size-32 mr-1 ml-3"
-                    src="{{asset('images/HEH-LOGO.png')}}"
+                    src="{{asset('admin/dist/img/avatar.png')}}"
                     alt="">
                 Muniraj <span class="caret"></span>
             </a>
